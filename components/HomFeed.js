@@ -5,7 +5,7 @@ import Cards from './HomeCards';
 export default function HomeFeed() {
     const [data, setData] = useState(null);
     useEffect(() => {
-        fetch("../asset/homeCardsData.json")
+        fetch("https://drive.google.com/uc?export=download&id=1KCP5X7CD9h80qMSvHGGTFUqXEaRXiYfj", "json")
             .then(response => response.json())
             .then((data) => {
                 console.log('data', data);
