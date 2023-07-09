@@ -1,0 +1,185 @@
+{
+    "CardEcomFour": {
+        "title": "Gurupurnima July 3 2023",
+        "subTitle": " Experience the Divine presence and blessings of our beloved Guru.",
+        "price": "offer your gratitute",
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/356898419_838232777669555_5123263939318045041_n.jpg?_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=3A4w4JoDOQkAX88kuM8&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfDUZ6C_5Jr6H9XOYYw3Ex2CU1A8ea4-4BYUPhMXWHCKoA&oe=64AD3CEA"
+        },
+        "buttonText": "VIEW DETAILS",
+        "buttonColor": "#4383FF"
+    },
+    "CardEcomThree": {
+        "title": "Pada Puja",
+        "subTitle": "8 July 8PM ET | 5.30am IST",
+        "price": "Offer your gratitude",
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/330393038_1366802857388292_3794294495074699186_n.jpg?_nc_cat=103&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=r1-q1F19vw8AX-6Ivth&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfDgCiiml8i7YNdf8cra4ofkaoK-L-b7s0D9mF100DMjqQ&oe=64AED30C"
+        },
+        "buttonText": "Register",
+        "buttonColor": "#ff2788"
+    },
+    "CardEcomTwo": {
+        "title": "Live Pranaparathista",
+        "subTitle": "8 July 8PM ET | 5.30am IST",
+        "price": "Join the upcomming Live stream",
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/347433055_838241871001979_1403849119324419422_n.jpg?_nc_cat=109&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=BpcpGzkQHjsAX-NSZ2F&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfATEO6wngCNppbjRZDRb7NtaHo69s_xzUTjYC6Jt6hucg&oe=64AF24E5"
+        }
+    },
+    "CardEcomOne": {
+        "title": "Aushadha Annadhanam Heals all diseases",
+        "price": "at Kailasa Thiruvannamalai",
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/358136327_839799160846250_8477885316852823213_n.jpg?_nc_cat=103&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=rq7smuwmAaUAX9F-0hK&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfDk_DuNEBGMthyp-rK5ifvofX9-mc_ycSSdKxYXqsxRgg&oe=64AD53F6"
+        },
+        "icon": "star",
+        "nbStar": 4,
+        "iconColor": "#FFC57C",
+        "colorList": [
+            "#000000",
+            "#0b8457",
+            "#7ed3b2"
+        ],
+        "selectColor": "#000000"
+    },
+    "CardOne": {
+        "height": "200",
+        "width": "320",
+        "borderRadius": 20,
+        "shadowColor": "blue",
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/358463059_6655372507840611_6217834387079802635_n.jpg?stp=dst-jpg_p960x960&_nc_cat=101&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=RPjmxnvXD3wAX9Uw6GU&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfDeMDo0P5GEhEWnX3MyXcjiWsMeVgfGRmwbPnyQ44Ntqw&oe=64AE5BD0"
+        }
+    },
+    "CardTwo": {
+        "title": "கைலாஸா மதுரை குருபூர்ணிமா ஒளஷத அன்னதானம்",
+        "subTitle": "கைலாஸா மதுரை குருபூர்ணிமா",
+        "profile": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/358114790_839285920897574_5058806639376250384_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=mkhJCkUa2toAX8PSpEh&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfBdXr3lbZjoUFT-zfChnQF6VgUI2GT4QN8s0p5En1C98g&oe=64ADB010"
+        },
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/358114790_839285920897574_5058806639376250384_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=mkhJCkUa2toAX8PSpEh&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfBdXr3lbZjoUFT-zfChnQF6VgUI2GT4QN8s0p5En1C98g&oe=64ADB010"
+        },
+        "icon": "apple",
+        "iconColor": "maroon"
+    },
+    "CardThree": {
+        "title": "Maheswara Pooja",
+        "subTitle": "Apr 2023",
+        "profile": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/356898419_838232777669555_5123263939318045041_n.jpg?_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=3A4w4JoDOQkAX88kuM8&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfDUZ6C_5Jr6H9XOYYw3Ex2CU1A8ea4-4BYUPhMXWHCKoA&oe=64AD3CEA"
+        },
+        "icon": "forward",
+        "iconColor": "grey"
+    },
+    "CardFour": {
+        "onClicked": "https://events.kailaasa.org/mahaparamashivoham/",
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/346882298_1538760339984064_3813813517665023920_n.jpg?_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=zU1ybWYU2JMAX-yiZz3&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfCAvjiapJGNuhQemwbBXR5zhRcjshWM-9ch9ydhvORh-w&oe=64ADDFA7"
+        },
+        "date": "📅 July 12 2023",
+        "off": "The SPH is welcoming all past participants of ALL Inner Awakening, Sadashivoham, Suddhadvaitam, MahaSadashioham, AlI 21 day December programs, All Paramashivoham Level2, NDY, NKY and Paramashivoham 3 who have attended 21 days of programs in the previous years, to join for the present MahaParamashivoham sessions as continuous education",
+        "offText": "FREE",
+        "buttonText": "Register!"
+    },
+    "CardFive": {
+        "title": "KAILASA Om Awards Ceremony",
+        "subTitle": "KAILASA congratulates all awardees on this most auspicious day of Guru Purnima!",
+        "profile": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/357711924_838083804351119_2661113365433876614_n.jpg?stp=dst-jpg_s600x600&_nc_cat=107&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=xHZx0yduteAAX-XdwLE&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfCfVZ5E9jbpvkPxOusB6xipaMJN4HJXAU40B2lA-pZNRw&oe=64AEF3B7"
+        },
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/357711924_838083804351119_2661113365433876614_n.jpg?stp=dst-jpg_s600x600&_nc_cat=107&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=xHZx0yduteAAX-XdwLE&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfCfVZ5E9jbpvkPxOusB6xipaMJN4HJXAU40B2lA-pZNRw&oe=64AEF3B7"
+        },
+        "icon": "star",
+        "nbStar": 3,
+        "iconColor": "#FFC57C"
+    },
+    "CardSix": {
+        "title": "The Sacred Pada Yatra: KAILASA's Guru Purnima 2023",
+        "subTitle": "Devotees of SPH embark on a reverential padayatra from Thiruvannamalai to Adi Kailasa in Bengaluru, carrying gurumudi, a symbol of respect and devotion, to honor and express gratitude to their guru, SPH Bhagavan Nithyananda Paramashivam on the sacred occasion of #GuruPurnima.",
+        "profile": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/358026829_837930701033096_2664031495132277683_n.jpg?_nc_cat=106&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=1836bdSygNAAX8naSIg&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfBouGP7uRSF5yCLCfWrvO-jm8e4oU9UKIG9Zl38fF97uA&oe=64ADE0BF"
+        },
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/358026829_837930701033096_2664031495132277683_n.jpg?_nc_cat=106&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=1836bdSygNAAX8naSIg&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfBouGP7uRSF5yCLCfWrvO-jm8e4oU9UKIG9Zl38fF97uA&oe=64ADE0BF"
+        },
+        "icon1": "star",
+        "iconColor1": "#fff",
+        "iconBackground1": "red",
+        "onClicked1": "Hello!",
+        "icon2": "rocket",
+        "iconColor2": "#fff",
+        "iconBackground2": "purple",
+        "onClicked2": "Hello!"
+    },
+    "CardSeven": {
+        "title": "Reclaim your conscious sovereignty just through intensely celebrating Bhagavan Sri Krishna.",
+        "subTitle": "Join us live from 8 PM  IST onwards, Live Darshan at 12 AM IST",
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/240466566_391734598986044_8759434102690804849_n.jpg?stp=dst-jpg_p180x540&_nc_cat=100&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=2UJbg110-foAX8Ma5Yi&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfA9C1Bw2dVl7PXC93H1Id3JgXu0MmOYI28t_mNePcW3pw&oe=64AD87FF"
+        },
+        "icon1": "share",
+        "iconColor1": "#fff",
+        "iconBackground1": "purple",
+        "onClicked1": "Hello!",
+        "icon2": "heart",
+        "iconColor2": "#fff",
+        "iconBackground2": "red",
+        "onClicked2": "Hello!"
+    },
+    "CardEight": {
+        "image1": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/358081390_839258554233644_3049552226178411061_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=HLdynJxjG9wAX9NkUhC&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfB85v1Kj-_I2ftfL90BPOs5J45Qod-TS7uFyLPzKauWoQ&oe=64AF2F65"
+        },
+        "image2": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/358077997_839260627566770_6505352220486876629_n.jpg?_nc_cat=103&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=BCne1jPFkk4AX-pdf8a&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfAK_0fPRHUwPhEopSzyzTtIkqSA3ffX1ydFv2B4BeolXg&oe=64AEE333"
+        },
+        "image3": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/358081390_839258554233644_3049552226178411061_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=HLdynJxjG9wAX9NkUhC&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfB85v1Kj-_I2ftfL90BPOs5J45Qod-TS7uFyLPzKauWoQ&oe=64AF2F65"
+        }
+    },
+    "CardNine": {
+        "title": "Five types of pain",
+        "subTitle": "comming out of five types of pain",
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/356636624_834383124721187_2818877105734534169_n.jpg?_nc_cat=101&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=KCfwjYd2eoAAX8L_ghy&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfC4hEqA7gshofGa7fofNI_eHFMOjV_PbrHc9sbMD5b3uQ&oe=64AEBDB4"
+        },
+        "price": "Free for all",
+        "onClicked": "Hello!",
+        "buttonText": "Register"
+    },
+    "CardTen": {
+        "title": "Discover the profund",
+        "subTitle": "Workings of the body",
+        "image": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/356856882_835712137921619_8992344791307969736_n.jpg?_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=zqQKylazY5EAX8EkbaX&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfCdCaxdjjDbMfrrqQ4lhLN47al4Vl8Rj_p2wI9s9L3YGg&oe=64AEB65E"
+        },
+        "price": "",
+        "star": 3,
+        "starsFor": ""
+    },
+    "CardEleven": {
+        "price": "Free for all",
+        "title": "One of the most discussed analyzed debated and misunderstood",
+        "subTitle": "oppertunity to delve in wisdom of ages",
+        "stars": 4,
+        "tags": [
+            "Initation",
+            "Shakthis",
+            "Manefestation"
+        ],
+        "image1": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/357020903_835641311262035_3694877572644511855_n.jpg?_nc_cat=106&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=2-5tM6qMw1gAX_Tkc6F&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfBYAH1GJZWBFbVA8QP669SBovMViWsbzUAxmi5PImj1hw&oe=64AE7AF8"
+        },
+        "image2": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/356636624_834383124721187_2818877105734534169_n.jpg?_nc_cat=101&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=KCfwjYd2eoAAX8L_ghy&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfC4hEqA7gshofGa7fofNI_eHFMOjV_PbrHc9sbMD5b3uQ&oe=64AEBDB4"
+        },
+        "backgroundImage": {
+            "uri": "https://scontent.fmaa3-2.fna.fbcdn.net/v/t39.30808-6/357066164_835596934599806_6653397901517671121_n.jpg?_nc_cat=102&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=undmqDk0wtEAX9WRb5A&_nc_ht=scontent.fmaa3-2.fna&oh=00_AfChWObRLR-7DnYhNVERHO9-iOQQJ2d3g7x8Wo1v0iqo3A&oe=64AF41DA"
+        },
+        "onClickedShare": "Hello",
+        "onClickedPlus": "Hello"
+    }
+}
